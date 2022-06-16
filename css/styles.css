@@ -45,7 +45,7 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: normal;
   padding-bottom: 10px
 }
@@ -141,7 +141,7 @@ a:hover{
 }
 .copyright{
   color: #EAF6F6;
-  font-size: .75rem;
+  font-size: .75rem ;
   font-weight: normal;
   padding: 20px 0;
 }
